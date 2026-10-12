@@ -1,31 +1,35 @@
 # TruthLens
 
-AI-powered misinformation and deepfake risk analysis platform for the SIH project.
+**Cyber Forensics & Synthetic Forgery Dissection Terminal by SY Tech.**
 
-## Run locally
+TruthLens is a terminal-grade cyber reconnaissance platform developed by SY Tech for disassembling synthetic media, forensic payload analysis, Error Level Analysis (ELA), acoustic spectral deepfake detection, and reverse-tracing digital disinformation networks.
 
-1. Install Node.js 20+.
-2. Open this folder in Antigravity (or another code editor).
-3. Run:
+Copyright © 2026 SY Tech. All Rights Reserved.
 
-```bash
-npm install
-npm run dev
-```
+---
 
-4. Open http://localhost:3000
+## ⚡ Quick Start
 
-## Current prototype
+1. Ensure **Node.js 20+** is installed.
+2. Launch dev terminal:
+   ```bash
+   cd truthlens
+   npm run dev
+   ```
+3. Access terminal at **[http://localhost:3000](http://localhost:3000)** in your browser.
 
-This starter contains the TruthLens landing page and analyzer UI. The analysis button is intentionally a UI prototype; the AI, Supabase database, authentication, evidence verification, and media-analysis APIs will be connected in the next stages.
+---
 
-## Planned modules
+## 💻 Terminal Features
 
-- Supabase Auth
-- Analysis history
-- Text/URL verification API
-- Image analysis
-- Video/audio deepfake analysis
-- Evidence Explorer
-- Risk scoring
-- Admin/trend dashboard
+- **[01_RAW_STRING]**: Natural language claim disassembler, entity graph extraction, and disinformation heuristic analysis.
+- **[02_URL_PACKET]**: OSINT botnet crawler and URL verification tool for X/Twitter, WhatsApp, Telegram, and YouTube.
+- **[03_PIXEL_ELA]**: Error Level Analysis (ELA) pixel quantization inspector and synthetic generative artifact detection.
+- **[04_VOICE_BIO]**: Acoustic frequency spectrum FFT analyzer and RVC/Wav2Vec2 deepfake voice clone detector.
+- **[02_INTERCEPT_RADAR]**: Live telemetry stream monitoring viral disinformation payloads across regional sectors.
+- **[03_AUDIT_LOGS]**: Local immutable vault of processed payloads with SHA-256 cryptographic hashes.
+- **Forensic Countermeasures**: One-click WhatsApp debunk generator and print-ready security dossiers.
+
+---
+
+**Developed & Maintained by SY Tech.**
